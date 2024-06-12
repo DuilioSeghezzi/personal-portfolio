@@ -13,6 +13,6 @@ const props = defineProps({
 
 <template>
     <li>
-        <img :src="props.iconUrl">
+        <img :src="props.iconUrl" class="w-5 h-5">
     </li>
 </template>
