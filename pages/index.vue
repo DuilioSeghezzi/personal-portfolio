@@ -3,5 +3,7 @@
 </script>
 
 <template>
-    Homepage
+    <div class="w-full h-4/6 bg-black">
+        <Ui/>
+    </div>
 </template>
