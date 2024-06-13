@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <ul class="flex flex-row justify-center gap-1 pt-2">
+    <ul class="flex flex-row justify-center gap-1 pt-2 bg-transparent">
        <HomepageSocialsIcon :url="''" :iconUrl="'/githubIcon.png'"/>
     </ul>
 </template>

@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div class="text-white text-center bg-black font-Bebas text-9xl">
+    <div class="text-white text-center font-Bebas text-9xl bg-transparent">
         Duilio Seghezzi
     </div>
 </template>

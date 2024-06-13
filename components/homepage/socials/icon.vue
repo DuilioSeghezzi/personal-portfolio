@@ -12,7 +12,7 @@ const props = defineProps({
 </script>
 
 <template>
-    <li>
+    <li class="bg-transparent">
         <img :src="props.iconUrl" class="w-5 h-5">
     </li>
 </template>
